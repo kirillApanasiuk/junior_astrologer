@@ -1,0 +1,1 @@
+module junior_astrologer
